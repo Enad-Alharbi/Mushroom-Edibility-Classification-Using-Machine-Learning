@@ -1,4 +1,4 @@
-# Mushroom-Edibility-Classification-Using-Machine-Learning
+# Mushroom Edibility Classification Using Machine Learning
 
 This repository contains a cleaned version of the Mushroom Dataset for binary classification tasks. The original dataset is sourced from the UCI Machine Learning Repository, and this version has been preprocessed for improved usability and performance in machine learning models.
 
